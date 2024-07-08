@@ -1,0 +1,15 @@
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\bin\Debug\net8.0\HelloCS.exe
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\bin\Debug\net8.0\HelloCS.deps.json
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\bin\Debug\net8.0\HelloCS.runtimeconfig.json
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\bin\Debug\net8.0\HelloCS.dll
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\bin\Debug\net8.0\HelloCS.pdb
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfo.cs
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\HelloCS.sourcelink.json
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\HelloCS.dll
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\HelloCS.pdb
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\HelloCS.genruntimeconfig.cache
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\HelloCS\obj\Debug\net8.0\ref\HelloCS.dll
