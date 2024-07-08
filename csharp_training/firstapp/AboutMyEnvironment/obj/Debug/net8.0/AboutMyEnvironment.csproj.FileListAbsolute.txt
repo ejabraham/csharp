@@ -1,0 +1,15 @@
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.exe
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.deps.json
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.runtimeconfig.json
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.dll
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.pdb
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfo.cs
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.sourcelink.json
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.dll
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\refint\AboutMyEnvironment.dll
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.pdb
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.genruntimeconfig.cache
+C:\Users\mgaguest\Documents\Training\csharp_training\firstapp\AboutMyEnvironment\obj\Debug\net8.0\ref\AboutMyEnvironment.dll
