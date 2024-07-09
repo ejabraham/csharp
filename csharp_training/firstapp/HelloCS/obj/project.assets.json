@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mgaguest\\Documents\\Training\\csharp_training\\firstapp\\HelloCS\\HelloCS.csproj",
+      "projectUniqueName": "C:\\Users\\mgaguest\\Documents\\csharp\\csharp_training\\firstapp\\HelloCS\\HelloCS.csproj",
       "projectName": "HelloCS",
-      "projectPath": "C:\\Users\\mgaguest\\Documents\\Training\\csharp_training\\firstapp\\HelloCS\\HelloCS.csproj",
+      "projectPath": "C:\\Users\\mgaguest\\Documents\\csharp\\csharp_training\\firstapp\\HelloCS\\HelloCS.csproj",
       "packagesPath": "C:\\Users\\mgaguest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mgaguest\\Documents\\Training\\csharp_training\\firstapp\\HelloCS\\obj\\",
+      "outputPath": "C:\\Users\\mgaguest\\Documents\\csharp\\csharp_training\\firstapp\\HelloCS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mgaguest\\AppData\\Roaming\\NuGet\\NuGet.Config"
